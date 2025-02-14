@@ -9,6 +9,16 @@ ConCMD is abusable. Well, it's not really abusable to the sake that it can ruin 
 This is very similar to ConCMD but it just only fires PAC3 events, ONLY.
 
 You as a server owner is responsible to ensure people don't crash your server using PAC3. This cannot be used to crash the server itself. PAC3 is the one to blame.
+# How do I use it?
+Inside an Expression2 chip it is automatically registered as a function.
+
+firePAC3("EVENT STUFF HERE")
+
+Example: 
+firePAC3("Play_Funny_Animation 1") --Toggles the animation on
+firePAC3("Play_Funny_Animation 0") --Toggles the animation off
+firePAC3("Play_Funny_Animation") --Plays it once
+
 # Installation
 Drag e2pac in the addons folder in Garry's Mod.
 
