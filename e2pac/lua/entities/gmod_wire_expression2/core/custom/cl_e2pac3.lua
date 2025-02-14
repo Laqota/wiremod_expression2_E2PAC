@@ -1,0 +1,1 @@
+E2Helper.Descriptions["firePAC3"] = "Fire's a PAC Event (Same as console command 'pac_event YadaaYadda 0-2')"
